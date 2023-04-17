@@ -1,10 +1,8 @@
-# class names: CamelCase
+class names: CamelCase
 
-# class ThisIsCamelCase
-
-# # code for class
-
-# end
+```class ThisIsCamelCase
+code for class
+# end```
 
 # file names, method names and variable names: snake_case
 
