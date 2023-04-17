@@ -1,4 +1,4 @@
-#class names: CamelCase
+# class names: CamelCase
 
 ```
 class ThisIsCamelCase
