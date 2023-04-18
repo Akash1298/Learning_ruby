@@ -23,3 +23,7 @@ john = Student.new("John", "Doe", "john_doe@gmail.com", "john01", "87654321")
 
 puts akash
 puts john
+
+akash.last_name = john.last_name
+puts "Akash is altered"
+puts akash
